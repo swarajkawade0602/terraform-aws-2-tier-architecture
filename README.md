@@ -23,7 +23,7 @@ The entire infrastructure is created using Infrastructure as Code (IaC) with Ter
 
 # Architecture
 
-![alt text](Resource_Map-1.png)
+![alt text](Resource_Map.png)
 
 Example:
 
